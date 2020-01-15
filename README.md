@@ -1,4 +1,4 @@
-#PowerLifiting Data Parser
+# PowerLifiting Data Parser
 ## By Kevin Zhang
 
 This program was designed to parse through csv file of weightlifiting data found off of [Kaggle](https://www.kaggle.com/open-powerlifting/powerlifting-database)
